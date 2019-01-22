@@ -1,6 +1,6 @@
 import sys
 
-#Checking octets
+#Checking the octets
 def ip_addr_valid(list):
 
     for ip in list:
